@@ -1,0 +1,10 @@
+/build/
+/make
+*.o
+*.a
+*.so
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
